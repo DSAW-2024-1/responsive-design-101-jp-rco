@@ -5,6 +5,9 @@
 ![Preview del diseño](./design/desktop-preview.jpg)
 
 
+LINK DEL SITIO WEB DESPLEGADO: https://dsaw-2024-1.github.io/responsive-design-101-jp-rco/
+
+
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
 
 ## Responsive Design
